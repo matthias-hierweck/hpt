@@ -1,4 +1,3 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=windows-1252"/>
@@ -9,7 +8,7 @@
 	</head>
 <body lang="de-DE" text="#000000" bgcolor="#f4f0d9" dir="ltr">
 <div align="right">
-	<table width="1345" cellpadding="0" cellspacing="0" style="page-break-before: always; page-break-inside: avoid">
+	<table width="1345" cellpadding="0" cellspacing="0" bgcolor="#f4f0d9" style="page-break-before: always; page-break-inside: avoid">
 		<col width="149">
 		<col width="53">
 		<col width="1143">
@@ -126,8 +125,5 @@
 		</tr>
 	</table>
 </div>
-<p align="left" style="margin-right: 0.19cm; text-indent: 0.21cm; margin-bottom: 0cm; line-height: 150%; background: #f5f0d9">
-<br/>
-</p>
 </body>
 </html>
