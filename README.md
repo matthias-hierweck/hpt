@@ -1,4 +1,5 @@
 <html>
+<body bgcolor="#f4f0d9">
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=windows-1252"/>
 	<meta name="generator" content="LibreOffice 6.0.6.2 (Windows)"/>
