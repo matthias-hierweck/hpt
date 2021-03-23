@@ -14,7 +14,7 @@
 		<tr>
 			<td width="1345" valign="top" style="border: none; padding: 0cm">
 				<p align="left"><font color="#7d5454"><a href="http://index.html/">
-  <img src="impressum_html_71690176fdfdf8ac.jpg" name="HTTP://INDEX.HTML/" align="middle" width="493" height="168" border="0"/>
+  <img src="../images/impressum_html_71690176fdfdf8ac.jpg" name="HTTP://INDEX.HTML/" align="middle" width="493" height="168" border="0"/>
 </a>
 				</font>
 				</p>
