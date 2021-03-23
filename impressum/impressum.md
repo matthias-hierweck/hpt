@@ -2,22 +2,13 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=windows-1252"/>
-	<title>Hierweck PROFESSIONAL TRAINING</title>
 	<meta name="generator" content="LibreOffice 6.0.6.2 (Windows)"/>
 	<meta name="author" content="Hierweck PROFESSIONAL TRAINING"/>
 	<meta name="created" content="2017-03-31T00:00:00"/>
 	<meta name="changed" content="2018-11-07T15:59:18.037000000"/>
-	<style type="text/css">
-		td p { color: #000000 }
-		h1 { color: #000000 }
-		p { color: #000000 }
-		h2 { color: #000000 }
-		h2.cjk { font-family: "SimSun" }
-		h2.ctl { font-family: "Arial" }
-	</style>
 </head>
 <body lang="de-DE" text="#000000" bgcolor="#f4f0d9" dir="ltr">
-<div align="right">
+<div align="left">
 	<table width="1345" cellpadding="0" cellspacing="0" style="page-break-before: always; page-break-inside: avoid">
 		<col width="1345">
 		<tr>
@@ -25,7 +16,6 @@
 				<p align="left"><font color="#7d5454"><a href="http://index.html/">
   <img src="impressum_html_71690176fdfdf8ac.jpg" name="HTTP://INDEX.HTML/" align="middle" width="493" height="168" border="0"/>
 </a>
-
 				</font>
 				</p>
 			</td>
@@ -54,7 +44,6 @@ Gro&szlig;e
 58239 Schwerte</font></font></p>
 				<p><br/>
 <br/>
-
 				</p>
 				<h2 class="western"><font color="#7d5454"><font face="Arial, sans-serif">Disclaimer
 				&ndash; rechtliche Hinweise</font></font></h2>
@@ -944,7 +933,6 @@ Sie
 </div>
 <p align="left" style="margin-right: 0.19cm; text-indent: 0.21cm; margin-bottom: 0cm; line-height: 150%; background: #f5f0d9">
 <br/>
-
 </p>
 </body>
 </html>
