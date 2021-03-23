@@ -123,7 +123,3 @@
 				<a href="impressum/impressum.md"><font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Impressum/Disclaimer</b></font></font></font></a></p>
 			</td>
 		</tr>
-	</table>
-</div>
-</body>
-</html>
