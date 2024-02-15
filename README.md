@@ -39,8 +39,7 @@
 				sowie der Grundschule.</font></font></font></p>
 				<p align="left" style="margin-right: 0.19cm; background: #f5f0d9">
 				<font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">Die
-				Nachhilfe kann dabei bei mir zuhause (ich verf&uuml;ge &uuml;ber
-				ein eigenes Studio) oder bei Ihnen stattfinden, ganz, wie Sie es
+				Nachhilfe kann dabei bei mir zuhause oder bei Ihnen stattfinden, ganz, wie Sie es
 				w&uuml;nschen. </font></font></font>
 				</p>
 				<p align="left" style="margin-right: 0.19cm; background: #f5f0d9">
