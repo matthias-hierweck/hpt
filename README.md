@@ -21,101 +21,23 @@
 		</tr>
 		<tr>
 			<td colspan="3" width="1345" valign="top" style="border: none; padding: 0cm">
-				<h1><font color="#7d5454"><font face="Arial, sans-serif"><font size="4" style="font-size: 16pt">Lehrerin
-				gibt Nachhilfe in Deutsch und Englisch</font></font></font></h1>
+				<h1><font color="#7d5454"><font face="Arial, sans-serif"><font size="4" style="font-size: 16pt">Diese Website wird derzeit überarbeitet.</font></font></font></h1>
 				<p align="left" style="margin-right: 0.19cm; margin-bottom: 0cm; background: #f5f0d9">
 				<br/>
 				</p>
-				<p align="left" style="margin-right: 0.19cm; background: #f5f0d9">
-				<font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">Ich
-				bin ausgebildete Lehrerin f&uuml;r die F&auml;cher Englisch und
-				Deutsch und biete Nachhilfe bis einschlie&szlig;lich dem Abitur
-				an. </font></font></font>
-				</p>
-				<p align="left" style="margin-right: 0.19cm; background: #f5f0d9">
-				<font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">Die
-				Schulform spielt keine Rolle, ich helfe Ihrem Sohn bzw. Ihrer
-				Tochter gerne auf der Realschule, der Gesamtschule, dem Gymnasium
-				sowie der Grundschule.</font></font></font></p>
-				<p align="left" style="margin-right: 0.19cm; background: #f5f0d9">
-				<font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">Die
-				Nachhilfe kann dabei bei mir zuhause oder bei Ihnen stattfinden, ganz, wie Sie es
-				w&uuml;nschen. </font></font></font>
-				</p>
-				<p align="left" style="margin-right: 0.19cm; background: #f5f0d9">
-				<font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">Terminlich
-				richte ich mich ganz nach dem Stundenplan und den
-				Freizeitaktivit&auml;ten Ihres Kindes. </font></font></font>
-				</p>
-				<p align="left" style="margin-right: 0.19cm; background: #f5f0d9">
-				<font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">Da
-				ich derzeit noch promoviere, verf&uuml;ge ich im
-				Nachmittagsbereich &uuml;ber freie Termine.</font></font></font></p>
-				<p align="left" style="margin-right: 0.19cm; background: #f5f0d9">
-				<font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">&Uuml;ber
-				einen Anruf freue ich mich sehr!</font></font></font></p>
-			</td>
-      <tr valign="top">
-			<td width="149" style="border: none; padding: 0cm">
-				<p align="left" style="margin-right: 0.19cm; text-indent: 0.21cm; background: #f5f0d9">
-				<font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">Telefon</font></font></font></p>
-			</td>
-			<td colspan="2" width="1196" style="border: none; padding: 0cm">
-				<p align="left" style="margin-right: 0.19cm; text-indent: 0.21cm; background: #f5f0d9">
-				<font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">+49
-				(0) 23 04 - 3 09 96 22 </font></font></font>
-				</p>
-			</td>
-		</tr>
-		<tr valign="top">
-			<td width="149" style="border: none; padding: 0cm">
-				<p align="left" style="margin-right: 0.19cm; text-indent: 0.21cm; background: #f5f0d9">
-				<font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">Fax</font></font></font></p>
-			</td>
-			<td colspan="2" width="1196" style="border: none; padding: 0cm">
-				<p align="left" style="margin-right: 0.19cm; text-indent: 0.21cm; background: #f5f0d9">
-				<font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">+49
-				(0) 23 04 - 3 09 96 23</font></font></font></p>
-			</td>
-		</tr>
-		<tr valign="top">
-			<td width="149" style="border: none; padding: 0cm">
-				<p lang="en-US" align="left" style="margin-right: 0.19cm; text-indent: 0.21cm; background: #f5f0d9">
-				<font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">Mail</font></font></font></p>
-			</td>
-			<td colspan="2" width="1196" style="border: none; padding: 0cm">
-				<p align="left" style="margin-right: 0.19cm; text-indent: 0.21cm; background: #f5f0d9">
-				<a href="mailto:info@hierweck-training.de?subject=Anfrage%20Website%20HPT" name="info@hierweck-training.de" target="_blank"><font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">info@hierweck-training.de</font></font></font></a></p>
-			</td>
-		</tr>
-		<tr valign="top">
-			<td width="149" height="21" style="border: none; padding: 0cm">
-				<p align="left" style="margin-right: 0.19cm; text-indent: 0.21cm; background: #f5f0d9">
-				<font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">Web</font></font></font></p>
-			</td>
-			<td colspan="2" width="1196" style="border: none; padding: 0cm">
-				<p align="left" style="margin-right: 0.19cm; text-indent: 0.21cm; background: #f5f0d9">
-				<a href="http://www.hierweck-training.de/" name="www.hierweck-training.de"><font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">www.hierweck-training.de</font></font></font></a></p>
-			</td>
-		</tr>
-		<tr valign="top">
+				<tr valign="top">
 			<td colspan="3" width="1345" height="27" valign="top" style="border: none; padding: 0cm">
 			</td>
 		</tr>
 		<tr>
 			<td colspan="3" width="1345" height="27" valign="top" style="border: none; padding: 0cm">
 				<p align="left" style="margin-right: 0.19cm; text-indent: 0.21cm; background: #f5f0d9">
-				<font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Diese
-				Seite befindet sich derzeit noch im Aufbau. Vielen Dank f&uuml;r
+				<font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b> Vielen Dank f&uuml;r
 				Ihr Verst&auml;ndnis.</b></font></font></font></p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" width="1345" height="27" valign="top" style="border: none; padding: 0cm">
-				<p align="left" style="margin-right: 0.19cm; text-indent: 0.21cm; background: #f5f0d9">
-				<font color="#7d5454"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>F&uuml;r
-				weitere Informationen kontaktieren Sie mich bitte.</b></font></font></font></p>
-			</td>
+		
 		</tr>
 		<tr>
 			<td colspan="3" width="1345" height="30" valign="top" style="border: none; padding: 0cm">
